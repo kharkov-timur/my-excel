@@ -1,0 +1,24 @@
+{
+  "name": "my-excel",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Excel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kharkov-timur/my-excel.git"
+  },
+  "keywords": [
+    "js",
+    "javascript",
+    "excel"
+  ],
+  "author": "Timur Kharkov <kharkov.timur@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kharkov-timur/my-excel/issues"
+  },
+  "homepage": "https://github.com/kharkov-timur/my-excel#readme"
+}
